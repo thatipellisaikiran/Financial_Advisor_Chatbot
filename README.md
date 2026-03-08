@@ -36,7 +36,6 @@ Financial_Advisor_Chatbot
 ├── chroma_db/            # Vector database
 ├── .env                  # API keys (not pushed to GitHub)
 ├── .gitignore            # Ignore secret files
-├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
 
@@ -116,6 +115,7 @@ API keys are stored in `.env` and excluded using `.gitignore` to prevent exposur
 * Deployment using Docker
 
 ---
+
 
 
 
