@@ -1,4 +1,4 @@
-# 💰 Financial Advisor Chatbot (100% Free LLM)
+# 💰 Financial Advisor Chatbot 
 
 A Financial Advisor Chatbot built using **Streamlit, SmolAgents, Groq Llama 3.3 70B, and ChromaDB**.
 The chatbot retrieves financial knowledge from stored documents using **semantic search** and answers user queries intelligently.
@@ -117,9 +117,5 @@ API keys are stored in `.env` and excluded using `.gitignore` to prevent exposur
 
 ---
 
-## 👨‍💻 Author
 
-**T. Sai Kiran**
 
-Data Science & Generative AI Enthusiast
-Experienced in Python, Machine Learning, Deep Learning, and LLM Applications.
