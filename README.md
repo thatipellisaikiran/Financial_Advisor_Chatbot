@@ -55,12 +55,6 @@ Move into the project folder:
 cd Financial_Advisor_Chatbot
 ```
 
-Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🔑 Environment Variables
@@ -115,6 +109,7 @@ API keys are stored in `.env` and excluded using `.gitignore` to prevent exposur
 * Deployment using Docker
 
 ---
+
 
 
 
